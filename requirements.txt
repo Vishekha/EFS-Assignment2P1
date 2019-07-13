@@ -17,3 +17,4 @@ request==2019.4.13
 requests==2.22.0
 urllib3==1.25.3
 whitenoise==4.1.2
+psycog2==2.7.5
